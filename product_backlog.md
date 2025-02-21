@@ -112,10 +112,10 @@ This section tracks features that have been **fully implemented**.
 
 | ✅ **Completed Feature** | 📅 **Completion Date** |
 |-------------------------|----------------------|
-| Account Registration | _(Pending)_ |
-| Account Login | _(Pending)_ |
-| Homepage | _(Pending)_ |
-| Sign Out Feature | _(Pending)_ |
+| Account Registration | _(Done)_ |
+| Account Login | _(Done)_ |
+| Homepage | _(Done)_ |
+| Sign Out Feature | _(Done)_ |
 
 ---
 
@@ -126,5 +126,5 @@ This section tracks features that have been **fully implemented**.
 
 ---
 **📅 Last Updated:** _(Insert Current Date)_  
-🚀 Developed by: **(Your Name / Team Name)**  
-📂 GitHub Repository: **[Insert Link Here]**  
+🚀 Developed by: **(Conor Cremin / M42)**  
+📂 GitHub Repository: **[Insert Link Here](https://github.com/conorcremin93/habit_tracker]**  
